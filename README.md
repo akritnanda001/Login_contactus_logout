@@ -37,7 +37,7 @@ I have created the following pages:
 
 
 
- APIS: REST API
+ ##APIS: REST API
      DATABASE : MongoDB with Mongoose
      Authentication: JSON web token
      Tools: Postman, VSCode
@@ -45,11 +45,12 @@ I have created the following pages:
      BackEnd : NodeJS, MongoDB with mongoose
 					
 					
+	
+	Images				
 					
+		![signup-blank](https://user-images.githubusercontent.com/105603375/196801561-40a6f215-bb7c-4530-b03b-b10f03c2ae02.png)
 					
-					![signup-blank](https://user-images.githubusercontent.com/105603375/196801561-40a6f215-bb7c-4530-b03b-b10f03c2ae02.png)
-					
-					![signup-incomplete](https://user-images.githubusercontent.com/105603375/196801722-4f15c8da-caa1-44d4-9330-990a2e64d7a4.png)
+		![signup-incomplete](https://user-images.githubusercontent.com/105603375/196801722-4f15c8da-caa1-44d4-9330-990a2e64d7a4.png)
 
      ![signin](https://user-images.githubusercontent.com/105603375/196801784-c12142fd-9193-4bd5-9cef-4cb9f78ed3b7.png)
 					
